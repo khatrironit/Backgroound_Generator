@@ -1,0 +1,13 @@
+body{
+	font-style: sans-serif;
+	text-transform: uppercase;
+	text-align: center;
+	color:rgba(0,0,0,0.5);
+	top:15%;
+	letter-spacing: 0.3em;
+	background:linear-gradient(to right,red,yellow); 
+}
+h3{
+	text-transform: none;
+	letter-spacing: 0.1em;
+}
